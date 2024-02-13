@@ -1,0 +1,99 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', monospace;
+}
+
+.Heading h1 {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+}
+
+.location {
+    text-align: center;
+    color: #666;
+    margin-top: 5px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.subheading h2 {
+    color: #ffffff;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+.neiu, .nn, .kumon {
+    padding: 15px;
+    background-color: #fff;
+    margin: 20px 0;
+}
+
+.neiu h4, .neiu h5, .nn h3, .nn h5, .kumon h3, .kumon h5 {
+    margin: 10px 0;
+}
+.degree-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 10px 0; 
+}
+
+
+nn h6, kumon h6 {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.skills h4 {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #222;
+    color: #ddd;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+i {
+    color: black;
+}
+
+b {
+    font-weight: bold;
+}
+
+u {
+    text-decoration: underline;
+    color: rebeccapurple;
+}
+.s{
+    background-color: white;
+    font-family: 'Courier New', monospace;
+}
+.n{
+    text-align: center;
+}
